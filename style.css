@@ -55,7 +55,7 @@ footer {
 
 /* PÁGINA INICIAL */
 .inicio {
-  background: linear-gradient(to top, #00ccff, #0099ff);
+  background: linear-gradient(to top, orange, #0099ff);
   height: 100vh;
   overflow: hidden;
 }
